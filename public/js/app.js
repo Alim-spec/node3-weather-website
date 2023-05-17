@@ -24,3 +24,5 @@ fetch('/weather?search='+location).then((response)=>{
 
 
 })
+
+console.log()
